@@ -5,7 +5,8 @@ body {
 /* to remove all the resedual margins */
 
 #body-header {
-	background-image: url("media/ai2.jpg");
+	/*background-image: url("media/ai2.jpg");*/
+	background-color: black;
 	height: 75vh;
 	background-size: cover;
 	background-position: top;
